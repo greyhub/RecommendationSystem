@@ -14,7 +14,7 @@
       + [MovieLens-10M](http://files.grouplens.org/datasets/movielens/ml-10m.zip)
 
 
-## Methods
+## Training
 
 > We define two related models: denoising autoencoder with multinomial likelihood (Multi-DAE in the paper) and partially-regularized variational autoencoder with multinomial likelihood (Multi-VAE^{PR} in the paper).
 
