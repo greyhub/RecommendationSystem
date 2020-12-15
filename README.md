@@ -1,7 +1,7 @@
 # Recommendation System
 
 ## Topic: Variational Autoencoders for Collaborative Filtering
-> Team: Dang NM, Quan VD, Tuan BM, Luong NV
+> Team: Tuan BM, Quan VD, Dang NM, Luong NV
 
 -------------------------------------------------------------------------------------
 
